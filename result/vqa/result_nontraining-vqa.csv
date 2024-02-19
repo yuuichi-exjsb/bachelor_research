@@ -1,0 +1,101 @@
+image_id,question,correct,generate
+/home/forte/users/nishida/outputs/21620-3.png,What type of vehicle is a man standing next to?,motorcycle,motorcycle
+/home/forte/users/nishida/outputs/21620-3.png,What is the name of the space where a man is standing next to a red motorcycle?,parking,yes
+/home/forte/users/nishida/outputs/21620-3.png,What is the parking space for a motorcycle?,space,no
+/home/forte/users/nishida/outputs/21621-1.png,What type of professional racers are on a race track?,motorcyclists,yes
+/home/forte/users/nishida/outputs/21621-1.png,What is a curve?,curve,yes
+/home/forte/users/nishida/outputs/21621-1.png,What type of track are professional motorcyclists on?,race,concrete
+/home/forte/users/nishida/outputs/21621-1.png,What type of track are professional motorcyclists racing on?,track,concrete
+/home/forte/users/nishida/outputs/21621-2.png,What type of professional racers are on a race track?,motorcyclists,yes
+/home/forte/users/nishida/outputs/21621-2.png,What is a curve?,curve,yes
+/home/forte/users/nishida/outputs/21621-2.png,What type of track are professional motorcyclists on?,race,concrete
+/home/forte/users/nishida/outputs/21621-2.png,What type of track are professional motorcyclists racing on?,track,concrete
+/home/forte/users/nishida/outputs/21621-3.png,What type of professional racers are on a race track?,motorcyclists,yes
+/home/forte/users/nishida/outputs/21621-3.png,What is a curve?,curve,yes
+/home/forte/users/nishida/outputs/21621-3.png,What type of track are professional motorcyclists on?,race,concrete
+/home/forte/users/nishida/outputs/21621-3.png,What type of track are professional motorcyclists racing on?,track,concrete
+/home/forte/users/nishida/outputs/21622-1.png,What is a person in the snow on some skis?,person,yes
+/home/forte/users/nishida/outputs/21622-1.png,What kind of weather does a person get in?,snow,snow
+/home/forte/users/nishida/outputs/21622-1.png,What kind of equipment is a person in the snow?,skis,ski poles
+/home/forte/users/nishida/outputs/21622-2.png,What is a person in the snow on some skis?,person,yes
+/home/forte/users/nishida/outputs/21622-2.png,What kind of weather does a person get in?,snow,no
+/home/forte/users/nishida/outputs/21622-2.png,What kind of equipment is a person in the snow?,skis,ski poles
+/home/forte/users/nishida/outputs/21622-3.png,What is a person in the snow on some skis?,person,yes
+/home/forte/users/nishida/outputs/21622-3.png,What kind of weather does a person get in?,snow,yes
+/home/forte/users/nishida/outputs/21622-3.png,What kind of equipment is a person in the snow?,skis,skis
+/home/forte/users/nishida/outputs/21623-1.png,What is a pastoral scene with horses and a mountain?,scene,yes
+/home/forte/users/nishida/outputs/21623-1.png,What kind of animals are in the scene?,horses,yes
+/home/forte/users/nishida/outputs/21623-1.png,What kind of mountain is the scene with horses?,mountain,no
+/home/forte/users/nishida/outputs/21623-2.png,What is a pastoral scene with horses and a mountain?,scene,yes
+/home/forte/users/nishida/outputs/21623-2.png,What kind of animals are in the scene?,horses,yes
+/home/forte/users/nishida/outputs/21623-2.png,What kind of mountain is the scene with horses?,mountain,no
+/home/forte/users/nishida/outputs/21623-3.png,What is a pastoral scene with horses and a mountain?,scene,yes
+/home/forte/users/nishida/outputs/21623-3.png,What kind of animals are in the scene?,horses,yes
+/home/forte/users/nishida/outputs/21623-3.png,What kind of mountain is the scene with horses?,mountain,no
+/home/forte/users/nishida/outputs/21624-1.png,What is a big part of the holiday?,display,yes
+/home/forte/users/nishida/outputs/21624-1.png,What type of items are displayed on a large display?,holiday,yes
+/home/forte/users/nishida/outputs/21624-1.png,What type of holiday items are displayed on a large display?,items,yes
+/home/forte/users/nishida/outputs/21624-1.png,What musical instrument are some of the holiday items made of?,instruments,no
+/home/forte/users/nishida/outputs/21624-2.png,What is a big part of the holiday?,display,yes
+/home/forte/users/nishida/outputs/21624-2.png,What type of items are displayed on a large display?,holiday,no
+/home/forte/users/nishida/outputs/21624-2.png,What type of holiday items are displayed on a large display?,items,yes
+/home/forte/users/nishida/outputs/21624-2.png,What musical instrument are some of the holiday items made of?,instruments,no
+/home/forte/users/nishida/outputs/21624-3.png,What is a big part of the holiday?,display,yes
+/home/forte/users/nishida/outputs/21624-3.png,What type of items are displayed on a large display?,holiday,yes
+/home/forte/users/nishida/outputs/21624-3.png,What type of holiday items are displayed on a large display?,items,yes
+/home/forte/users/nishida/outputs/21624-3.png,What musical instrument are some of the holiday items made of?,instruments,hands
+/home/forte/users/nishida/outputs/21625-1.png,What is the gender of the person in the bed?,Man,male
+/home/forte/users/nishida/outputs/21625-1.png,What is the gender of the man in the bed?,woman,male
+/home/forte/users/nishida/outputs/21625-1.png,What is the place where a man and woman read books?,bed,yes
+/home/forte/users/nishida/outputs/21625-1.png,What do the two women read separately?,books,yes
+/home/forte/users/nishida/outputs/21625-2.png,What is the gender of the person in the bed?,Man,male
+/home/forte/users/nishida/outputs/21625-2.png,What is the gender of the man in the bed?,woman,male
+/home/forte/users/nishida/outputs/21625-2.png,What is the place where a man and woman read books?,bed,yes
+/home/forte/users/nishida/outputs/21625-2.png,What do the two women read separately?,books,yes
+/home/forte/users/nishida/outputs/21625-3.png,What is the gender of the person in the bed?,Man,male
+/home/forte/users/nishida/outputs/21625-3.png,What is the gender of the man in the bed?,woman,male
+/home/forte/users/nishida/outputs/21625-3.png,What is the place where a man and woman read books?,bed,yes
+/home/forte/users/nishida/outputs/21625-3.png,What do the two women read separately?,books,yes
+/home/forte/users/nishida/outputs/21626-1.png,What is the name of the skater who skates at the skate park during the day?,man,man
+/home/forte/users/nishida/outputs/21626-1.png,What is the name of the skate park?,park,yes
+/home/forte/users/nishida/outputs/21626-1.png,During what time of the day is skateboarding at the skate park?,day,mid afternoon
+/home/forte/users/nishida/outputs/21626-2.png,What is the name of the skater who skates at the skate park during the day?,man,yes
+/home/forte/users/nishida/outputs/21626-2.png,What is the name of the skate park?,park,yes
+/home/forte/users/nishida/outputs/21626-2.png,During what time of the day is skateboarding at the skate park?,day,yes
+/home/forte/users/nishida/outputs/21626-3.png,What is the name of the skater who skates at the skate park during the day?,man,man
+/home/forte/users/nishida/outputs/21626-3.png,What is the name of the skate park?,park,yes
+/home/forte/users/nishida/outputs/21626-3.png,During what time of the day is skateboarding at the skate park?,day,mid afternoon
+/home/forte/users/nishida/outputs/21627-1.png,What kind of animal jumps up to play with a man in a living room?,dog,dog
+/home/forte/users/nishida/outputs/21627-1.png,What is the name of the person that a dog jumps up to play with?,man,person in blue shirt
+/home/forte/users/nishida/outputs/21627-1.png,In what room is a dog playing with a man?,living,no
+/home/forte/users/nishida/outputs/21627-1.png,What room does a dog play with a man in?,room,0
+/home/forte/users/nishida/outputs/21627-2.png,What kind of animal jumps up to play with a man in a living room?,dog,dog
+/home/forte/users/nishida/outputs/21627-2.png,What is the name of the person that a dog jumps up to play with?,man,man is wearing jeans
+/home/forte/users/nishida/outputs/21627-2.png,In what room is a dog playing with a man?,living,yes
+/home/forte/users/nishida/outputs/21627-2.png,What room does a dog play with a man in?,room,yard
+/home/forte/users/nishida/outputs/21627-3.png,What kind of animal jumps up to play with a man in a living room?,dog,dog
+/home/forte/users/nishida/outputs/21627-3.png,What is the name of the person that a dog jumps up to play with?,man,man
+/home/forte/users/nishida/outputs/21627-3.png,In what room is a dog playing with a man?,living,yes
+/home/forte/users/nishida/outputs/21627-3.png,What room does a dog play with a man in?,room,yard
+/home/forte/users/nishida/outputs/21628-1.png,What signs are there on a sunny day?,Freeway,no
+/home/forte/users/nishida/outputs/21628-1.png,What do you see on a sunny day?,signs,yes
+/home/forte/users/nishida/outputs/21628-1.png,What is the best time to see freeway signs?,day,very nice
+/home/forte/users/nishida/outputs/21628-1.png,What is the main issue with the freeway signs?,traffic,no
+/home/forte/users/nishida/outputs/21628-2.png,What signs are there on a sunny day?,Freeway,yes
+/home/forte/users/nishida/outputs/21628-2.png,What do you see on a sunny day?,signs,yes
+/home/forte/users/nishida/outputs/21628-2.png,What is the best time to see freeway signs?,day,it is midair
+/home/forte/users/nishida/outputs/21628-2.png,What is the main issue with the freeway signs?,traffic,no
+/home/forte/users/nishida/outputs/21628-3.png,What signs are there on a sunny day?,Freeway,yes
+/home/forte/users/nishida/outputs/21628-3.png,What do you see on a sunny day?,signs,yes
+/home/forte/users/nishida/outputs/21628-3.png,What is the best time to see freeway signs?,day,0
+/home/forte/users/nishida/outputs/21628-3.png,What is the main issue with the freeway signs?,traffic,no
+/home/forte/users/nishida/outputs/21629-1.png,What is a paddler?,man,yes
+/home/forte/users/nishida/outputs/21629-1.png,What type of vehicle is a man standing on?,boat,yes
+/home/forte/users/nishida/outputs/21629-1.png,What does a man do when standing on a boat?,paddle,yes
+/home/forte/users/nishida/outputs/21629-1.png,What type of vehicle is a man standing on?,boat,yes
+/home/forte/users/nishida/outputs/21629-2.png,What is a paddler?,man,yes
+/home/forte/users/nishida/outputs/21629-2.png,What type of vehicle is a man standing on?,boat,yes
+/home/forte/users/nishida/outputs/21629-2.png,What does a man do when standing on a boat?,paddle,yes
+/home/forte/users/nishida/outputs/21629-2.png,What type of vehicle is a man standing on?,boat,yes
+/home/forte/users/nishida/outputs/21629-3.png,What is a paddler?,man,yes
+/home/forte/users/nishida/outputs/21629-3.png,What type of vehicle is a man standing on?,boat,yes
