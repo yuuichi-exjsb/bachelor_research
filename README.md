@@ -1,6 +1,6 @@
 ### 学部卒業研究「VQAにおける精度向上ための生成AIを用いた追加学習」
 <p align="center">
-<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat"><img src="https://img.shields.io/badge/-Pytorch-red.svg?logo=googleappsscript&style=flat-square">
+<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/-Pytorch-red.svg?logo=pytorch&style=flat">
 </p>
 
 
